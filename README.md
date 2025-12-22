@@ -37,11 +37,15 @@ to modern AI workflows involving LLMs, RAG, and agentic architectures.
 
 ---
 
+---
+
 ### 📌 Featured Work
-My pinned repositories showcase:
-- ML model development and evaluation
-- Reproducible MLOps pipelines
-- LLM-based systems (RAG, agents, summarization)
+- **SmartSumm** — FLAN-T5 fine-tuning, ONNX quantization, HF deployment  
+- **MLOps Pipeline (DVC + MLflow)** — reproducible training & evaluation  
+- **Multi-PDF RAG / Analyzer-GPT** — LLM-based AI systems  
+
+(See pinned repositories below)
+
 
 I focus on building **clear, measurable, and reproducible ML/AI systems** and
 improving them iteratively.
