@@ -11,7 +11,7 @@ to modern AI workflows involving LLMs, RAG, and agentic architectures.
 - Reproducible pipelines using DVC & MLflow
 - AI systems with LLMs: fine-tuning, RAG, and multi-agent workflows
 - Kaggle competitions (applied ML & model evaluation)
-- Preparing for open-source contributions (GSoC 2026)
+- Preparing for open-source contributions.
 
 ---
 
