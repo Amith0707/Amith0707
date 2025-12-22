@@ -40,6 +40,8 @@ to modern AI workflows involving LLMs, RAG, and agentic architectures.
 ### 📌 Featured Work
 - **SmartSumm** — FLAN-T5 fine-tuning, ONNX quantization, HF deployment  
 - **MLOps Pipeline (DVC + MLflow)** — reproducible training & evaluation  
+  ↳ Experiments, pipelines, and artifacts hosted on [DAGsHub](https://dagshub.com/amithv0705/mlops_pipeline_project)
+
 - **Multi-PDF RAG / Analyzer-GPT** — LLM-based AI systems  
 
 (See pinned repositories below)
