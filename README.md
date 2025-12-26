@@ -38,6 +38,8 @@ to modern AI workflows involving LLMs, RAG, and agentic architectures.
 ---
 
 ### 📌 Featured Work
+### Featured Work
+- **DermaPal** – An AI-powered skin disease classification system incorporating Grad-CAM–based visual explanations to improve the clinical interpretability of CNN models.
 - **SmartSumm** — FLAN-T5 fine-tuning, ONNX quantization, HF deployment  
 - **MLOps Pipeline (DVC + MLflow)** — reproducible training & evaluation  
   ↳ Experiments, pipelines, and artifacts hosted on [DAGsHub](https://dagshub.com/amithv0705/mlops_pipeline_project)
