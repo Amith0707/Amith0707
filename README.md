@@ -1,53 +1,49 @@
 ## Hi, I’m Amith 👋
 
-I’m an **Applied Machine Learning & AI–focused student engineer** working on
-end-to-end systems — from classical ML pipelines and MLOps
-to modern AI workflows involving LLMs, RAG, and agentic architectures.
+I’m an Applied Machine Learning & AI–focused student engineer interested in building end-to-end, reproducible ML systems, spanning classical ML, deep learning, and modern LLM-based pipelines.
 
 ---
 
-### 🔭 Current Focus
-- End-to-end ML systems (training → evaluation → optimization)
-- Reproducible pipelines using DVC & MLflow
-- AI systems with LLMs: fine-tuning, RAG, and multi-agent workflows
-- Kaggle competitions (applied ML & model evaluation)
-- Preparing for open-source contributions.
+###  Current Focus
+- End-to-end ML systems: training, evaluation, optimization, and deployment
+- Reproducible experimentation using MLflow and DVC
+- Transformer-based models, fine-tuning, and evaluation
+- Multimodal and domain-specific ML systems (vision with language)
+- Preparing for open-source and research contributions
 
 ---
 
-### 🛠 Tech I Use
+### Tech I Use
 
 **Core ML & AI**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="22"/> Python &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="22"/> PyTorch &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="22"/> scikit-learn
-</p>
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="22"/> Python &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="22"/> PyTorch &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="22"/> scikit-learn </p>
 
 **LLMs & AI Systems**
-<p>
-  🧠 Transformers &nbsp; • &nbsp; LangChain &nbsp; • &nbsp; LangGraph &nbsp; • &nbsp; AutoGen
-</p>
+<p> Transformer models (fine-tuning, evaluation) &nbsp; • &nbsp; Retrieval-Augmented Generation (RAG) &nbsp; • &nbsp; LangChain / LangGraph </p>
 
 **MLOps & Deployment**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="22"/> Docker &nbsp;
-  • MLflow &nbsp; • DVC &nbsp; • Hugging Face Spaces
-</p>
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="22"/> Docker &nbsp; • MLflow &nbsp; • DVC &nbsp; • Hugging Face Spaces </p>
 
 ---
 
-### 📌 Featured Work
-### Featured Work
-- **DermaPal** – An AI-powered skin disease classification system incorporating Grad-CAM–based visual explanations to improve the clinical interpretability of CNN models.
-- **SmartSumm** — FLAN-T5 fine-tuning, ONNX quantization, HF deployment  
-- **MLOps Pipeline (DVC + MLflow)** — reproducible training & evaluation  
-  ↳ Experiments, pipelines, and artifacts hosted on [DAGsHub](https://dagshub.com/amithv0705/mlops_pipeline_project)
+## 📌 Featured Work
 
-- **Multi-PDF RAG / Analyzer-GPT** — LLM-based AI systems  
+**Two-Stage Fraud Detection MLOps System**  
+Made a production-style ML system with probabilistic routing (Logistic Regression -> XGBoost), MLflow experiment tracking, frozen model artifacts, FastAPI inference service, audit logging, and Docker-ready deployment.
 
-(See pinned repositories below)
+**DermaPal**  
+Multimodal AI system for dermatology combining CNN-based image classification with Grad-CAM–based visual explanations to improve clinical interpretability.
 
+**SmartSumm**  
+Abstractive text summarization system using FLAN-T5, including fine-tuning, ONNX-based quantization, and Hugging Face deployment.
 
-I focus on building **clear, measurable, and reproducible ML/AI systems** and
-improving them iteratively.
+**Reproducible MLOps Pipeline (DVC + MLflow)**  
+Versioned data, experiments, and model artifacts with reproducible training and evaluation workflows (hosted on DAGsHub).
+
+**RAG / Multi-Document QA Systems**  
+Retrieval-augmented generation pipelines for multi-PDF analysis and question answering using transformer models.
+
+*(See pinned repositories below)*
+
+I focus on building **clear, measurable, and reproducible ML systems**, with emphasis on evaluation, system design, and iterative improvement.
+
