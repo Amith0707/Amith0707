@@ -45,5 +45,5 @@ Retrieval-augmented generation pipelines for multi-PDF analysis and question ans
 
 *(See pinned repositories below)*
 
-I focus on building **clear, measurable, and reproducible ML systems**, with emphasis on evaluation, system design, and iterative improvement.
+I focus on building **clear, measurable, and reproducible ML systems**, with emphasis on evaluation, system design, and iterative improvement and particularly interested in rigorous evaluation, representation learning, and building systems that support principled ML research.
 
