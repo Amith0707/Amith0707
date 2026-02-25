@@ -9,7 +9,6 @@ I’m an Applied Machine Learning & AI–focused student engineer interested in 
 - Reproducible experimentation using MLflow and DVC
 - Transformer-based models, fine-tuning, and evaluation
 - Multimodal and domain-specific ML systems (vision with language)
-- Preparing for open-source and research contributions
 
 ---
 
